@@ -1,0 +1,18 @@
+{
+  "anime": [
+    {
+      "title": "One Piece",
+      "desc": "",
+      "completed": true,
+      "rating": "10",
+      "id": 1
+    },
+    {
+      "title": "Attack On titan",
+      "desc": "",
+      "completed": true,
+      "rating": "10",
+      "id": 3
+    }
+  ]
+}
