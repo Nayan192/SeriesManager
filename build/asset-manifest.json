@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SeriesManager/static/css/main.781f8c57.chunk.css",
+    "main.js": "/SeriesManager/static/js/main.895b2816.chunk.js",
+    "main.js.map": "/SeriesManager/static/js/main.895b2816.chunk.js.map",
+    "runtime-main.js": "/SeriesManager/static/js/runtime-main.bb6771e7.js",
+    "runtime-main.js.map": "/SeriesManager/static/js/runtime-main.bb6771e7.js.map",
+    "static/js/2.b1acf89c.chunk.js": "/SeriesManager/static/js/2.b1acf89c.chunk.js",
+    "static/js/2.b1acf89c.chunk.js.map": "/SeriesManager/static/js/2.b1acf89c.chunk.js.map",
+    "static/js/3.5b3b0c14.chunk.js": "/SeriesManager/static/js/3.5b3b0c14.chunk.js",
+    "static/js/3.5b3b0c14.chunk.js.map": "/SeriesManager/static/js/3.5b3b0c14.chunk.js.map",
+    "index.html": "/SeriesManager/index.html",
+    "static/css/main.781f8c57.chunk.css.map": "/SeriesManager/static/css/main.781f8c57.chunk.css.map",
+    "static/js/2.b1acf89c.chunk.js.LICENSE.txt": "/SeriesManager/static/js/2.b1acf89c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb6771e7.js",
+    "static/js/2.b1acf89c.chunk.js",
+    "static/css/main.781f8c57.chunk.css",
+    "static/js/main.895b2816.chunk.js"
+  ]
+}
